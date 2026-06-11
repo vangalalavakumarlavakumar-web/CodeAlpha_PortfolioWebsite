@@ -10,7 +10,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'LavaKumar Vangala | Cyber Security Portfolio',
+  title: 'Lava Kumar Portfolio',
   description:
     'Portfolio of LavaKumar Vangala — B.Tech CSE (Cyber Security) student passionate about ethical hacking, penetration testing, network security and secure software development.',
   generator: 'v0.app',
