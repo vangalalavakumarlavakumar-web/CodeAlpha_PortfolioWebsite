@@ -1,0 +1,76 @@
+# 🌟 Personal Portfolio Website
+
+A modern and responsive personal portfolio website developed as part of the CodeAlpha Frontend Development Internship. This website showcases my skills, projects, education, and contact information in a professional and user-friendly manner.
+
+## 🚀 Features
+
+- Responsive design for all devices
+- Attractive and modern UI
+- Home section with introduction
+- About Me section
+- Skills showcase
+- Projects section
+- Contact form
+- Smooth navigation
+- Social media links
+- Clean and organized code structure
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap (if used)
+- Font Awesome (if used)
+
+## 📂 Project Structure
+
+```
+portfolio-website/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   └── assets
+└── README.md
+```
+
+Screenshots
+
+Add screenshots of your portfolio website here.
+
+ Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/vangalalavakumarlavakumar-web/CodeAlpha_PortfolioWebsite.git
+```
+
+2. Open the project folder.
+
+3. Run the `index.html` file in your browser.
+
+ Live Demo
+
+Add your deployed website link here:
+
+```
+https://your-portfolio-link.com
+```
+
+ About the Project
+
+This project was created to demonstrate frontend development skills through a professional portfolio website. It highlights personal information, technical skills, projects, and provides a way for visitors to connect with me.
+
+Author
+
+**Lava Kumar**
+
+- GitHub: https://github.com/vangalalavakumarlavakumar-web
+- LinkedIn: Add your LinkedIn profile link
+
+ If you like this project, please give it a star on GitHub!
