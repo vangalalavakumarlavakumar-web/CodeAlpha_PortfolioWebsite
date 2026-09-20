@@ -1,8 +1,8 @@
-# 🌟 Personal Portfolio Website
+# Personal Portfolio Website
 
 A modern and responsive personal portfolio website developed as part of the CodeAlpha Frontend Development Internship. This website showcases my skills, projects, education, and contact information in a professional and user-friendly manner.
 
-## 🚀 Features
+## Features
 
 - Responsive design for all devices
 - Attractive and modern UI
@@ -15,7 +15,7 @@ A modern and responsive personal portfolio website developed as part of the Code
 - Social media links
 - Clean and organized code structure
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -23,7 +23,7 @@ A modern and responsive personal portfolio website developed as part of the Code
 - Bootstrap (if used)
 - Font Awesome (if used)
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 portfolio-website/
@@ -73,4 +73,4 @@ Author
 - GitHub: https://github.com/vangalalavakumarlavakumar-web
 - LinkedIn: Add your LinkedIn profile link
 
- If you like this project, please give it a star on GitHub!
+If you like this project, please give it a star on GitHub!
