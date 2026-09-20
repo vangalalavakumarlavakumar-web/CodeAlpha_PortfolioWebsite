@@ -1,4 +1,3 @@
-import Image from "next/image"
 import { GraduationCap, Building2, Award, Sparkles } from "lucide-react"
 import { Section } from "@/components/section"
 import { about } from "@/lib/portfolio-data"
@@ -13,21 +12,6 @@ export function About() {
   return (
     <Section id="about" title="About Me">
       <div className="grid grid-cols-1 gap-8 md:grid-cols-2">
-        <div className="flex justify-center">
-          <div className="relative">
-            <div className="absolute -inset-3 rounded-2xl bg-primary/20 blur-2xl" />
-            <div className="relative w-48 overflow-hidden rounded-full border-2 border-primary/50">
-              <Image
-                src="/hero2.png"
-                alt="Lava Kumar Vangala"
-                width={192}
-                height={240}
-                className="w-full object-cover"
-              />
-            </div>
-          </div>
-        </div>
-
         <div className="space-y-5 leading-relaxed text-muted-foreground">
           <p>
             I&apos;m Lava Kumar, a Computer Science student passionate about Cyber
